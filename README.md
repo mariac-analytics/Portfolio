@@ -9,24 +9,7 @@ Each project demonstrates my ability to:
 - Make actionable, data-driven recommendations  
 
 ---
-
-## 📊 Featured Projects  
-
-### 1. 🛒 E-Commerce Home Goods & Gifts Analysis  
-**Goal:** Identify top-performing products in a European e-commerce dataset to guide a new business entering the home goods and gifts market.  
-
-**Contents:**  
-- **E-Commerce Data Journal.pdf** – Detailed exploration & cleaning process  
-- **ECommerce Notebook.ipynb** – Full analysis (Python/Jupyter) with product trends & keyword performance  
-- **Presentation.pdf** – Key findings, recommendations, and market entry timing suggestions  
-
-**Tools:** Python, Pandas, Matplotlib, GitHub  
-
-[View Project Folder ›](#)  
-
----
-
-### 2. 📈 Google Ads Campaign Performance Analysis  
+### 1. 📈 Google Ads Campaign Performance Analysis  
 **Goal:** Optimize ad spend to maximize ROAS while maintaining strong conversion volume.  
 
 **Contents:**  
@@ -36,10 +19,24 @@ Each project demonstrates my ability to:
 
 **Tools:** Python (Google Colab), Pandas, Matplotlib, GitHub  
 
-[View Project Folder ›](#)  
+[View Project Folder ›](GoogleAdsAnalysis) 
 
 ---
+## 📊 Featured Projects  
 
+### 2. 🛒 E-Commerce Home Goods & Gifts Analysis  
+**Goal:** Identify top-performing products in a European e-commerce dataset to guide a new business entering the home goods and gifts market.  
+
+**Contents:**  
+- **E-Commerce Data Journal.pdf** – Detailed exploration & cleaning process  
+- **ECommerce Notebook.ipynb** – Full analysis (Python/Jupyter) with product trends & keyword performance  
+- **Presentation.pdf** – Key findings, recommendations, and market entry timing suggestions  
+
+**Tools:** Python, Pandas, Matplotlib, GitHub  
+
+[View Project Folder ›](ECommerceHomeGoods)  
+
+---
 ## 🛠 Tools & Skills Highlighted  
 
 - **Languages & Libraries:** Python, Pandas, Matplotlib  
