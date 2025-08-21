@@ -1,6 +1,6 @@
 # 📈 Google Ads Campaign Performance Analysis  
 
-Welcome! This portfolio project analyzes real-world Google Ads campaign data to uncover high-return keywords and optimal budget allocation strategies. The goal: **maximize ROAS while sustaining conversion volume**.
+Welcome! This portfolio project analyzes real-world Google Ads campaign data to uncover high-return keywords and optimal budget allocation strategies. The goal: **maximize ROAS while maintaining or growing sales volume**.
 
 ---
 
