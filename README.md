@@ -9,6 +9,7 @@ Each project demonstrates my ability to:
 - Make actionable, data-driven recommendations  
 
 ---
+## 📊 Featured Projects  
 ### 1. 📈 Google Ads Campaign Performance Analysis  
 **Goal:** Optimize ad spend to maximize ROAS while maintaining strong conversion volume.  
 
@@ -22,7 +23,6 @@ Each project demonstrates my ability to:
 [View Project Folder ›](GoogleAdsAnalysis) 
 
 ---
-## 📊 Featured Projects  
 
 ### 2. 🛒 E-Commerce Home Goods & Gifts Analysis  
 **Goal:** Identify top-performing products in a European e-commerce dataset to guide a new business entering the home goods and gifts market.  
