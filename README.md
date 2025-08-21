@@ -32,7 +32,7 @@ Each project demonstrates my ability to:
 **Contents:**  
 - **Google Ads Data Journal.pdf** – Data cleaning & methodology walkthrough  
 - **Google_Ads_Analysis_Notebook.ipynb** – Keyword, device, and day-level analysis with visualizations  
-- **Campaign_Performance_Presentation.pdf** – Budget reallocation strategy and actionable recommendations  
+- **Google Ads Data Presentation.pdf** – Budget reallocation strategy and actionable recommendations  
 
 **Tools:** Python (Google Colab), Pandas, Matplotlib, GitHub  
 
