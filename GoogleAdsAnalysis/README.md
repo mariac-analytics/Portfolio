@@ -1,49 +1,56 @@
-📈 Google Ads Campaign Performance Analysis
+# 📈 Google Ads Campaign Performance Analysis  
 
-Welcome! This portfolio project examines real-world Google Ads campaign data, focusing on identifying high-return keywords and optimal spend allocation to maximize ROAS while maintaining conversion volume.
+Welcome! This portfolio project analyzes real-world Google Ads campaign data to uncover high-return keywords and optimal budget allocation strategies. The goal: **maximize ROAS while sustaining conversion volume**.
 
-📁 Project Contents
-📓 Google Ads Data Journal.pdf
+---
 
-A detailed walk-through of the data exploration and cleaning process.
-Includes campaign structure breakdowns, initial observations, and key decision points in shaping the analysis.
+## 📁 Project Contents  
 
-🧠 Google_Ads_Analysis_Notebook.ipynb
+### 📓 Google Ads Data Journal.pdf  
+- Step-by-step walkthrough of data exploration and cleaning  
+- Campaign structure breakdowns and initial observations  
+- Reasoning behind key analytical decisions  
 
-The full analysis in Python (via Google Colab).
-Contains:
+### 🧠 Google_Ads_Analysis_Notebook.ipynb  
+- Full analysis conducted in Python (via Google Colab)  
+- Includes:  
+  - Data preprocessing & calculated metrics  
+  - Exploratory data analysis (daily, device, and keyword trends)  
+  - Visualizations of clicks, conversions, and ROAS  
+  - Actionable insights  
 
-Data preprocessing
+### 📊 Google Ads Data Presentation.pdf 
+- Stakeholder-ready presentation (PDF format)  
+- Summarizes:  
+  - High- and low-performing days  
+  - Keyword-level performance  
+  - Budget reallocation recommendations  
 
-Exploratory data analysis
+---
 
-Daily, device, and keyword performance visualizations
+## 🎯 Project Goal  
 
-Derived metrics (ROAS, cost per conversion)
+Provide **data-driven recommendations** for optimizing Google Ads campaigns by reallocating spend across days, devices, and keywords to improve efficiency and return on ad spend.
 
-Actionable insights
+---
 
-📊 Campaign_Performance_Presentation.pdf
+## 🚀 Tools Used  
 
-A stakeholder-ready PowerPoint presentation in PDF format.
-Summarizes:
+- **Python / Google Colab**  
+- **Pandas / Matplotlib**  
+- **GitHub** for version control and project sharing  
 
-High- and low-performing days
+---
 
-Keyword-level performance
+## 👤 About This Project  
 
-Budget reallocation recommendations
+This project demonstrates my ability to:  
+- Analyze marketing campaign data to uncover actionable patterns  
+- Translate raw data into **clear, stakeholder-ready insights**  
+- Build **end-to-end analysis pipelines**, from cleaning to visualization to recommendations  
 
-🎯 Project Goal
+---
 
-To provide data-driven recommendations for optimizing ad spend across days, devices, and keywords, enabling more efficient returns on advertising investments.
+## 📌 Thank You!  
 
-🚀 Tools Used
-
-Python / Google Colab
-
-Pandas / Matplotlib
-
-GitHub for version control and sharing
-
-📌 Thanks for exploring this project — I hope it offers both strategic insights and a clear view into my analytical workflow!
+Thanks for checking out this project — I hope it provides valuable insight into both **advertising optimization** and my **analytical approach**.  
